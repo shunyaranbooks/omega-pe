@@ -1,12 +1,38 @@
 cff-version: 1.2.0
-title: "Omega-PE: Possibility Ethics Option Entropy Toolkit"
-version: "0.1.0"
 message: "If you use this software, please cite it."
+title: "Omega-PE: Possibility Ethics Option Entropy Toolkit"
+version: "v0.1.0"
+doi: "10.5281/zenodo.17380933"
+date-released: "2025-10-17"
 authors:
   - family-names: "Akhtar"
     given-names: "Mohammad Amir Khusru"
-    alias: "Shunya"
+    affiliation: "Usha Martin University, Ranchi, India"
     email: "amir@umu.ac.in"
 repository-code: "https://github.com/shunyaranbooks/Omega-PE"
+url: "https://doi.org/10.5281/zenodo.17380933"
 license: "MIT"
-date-released: "2025-10-17"
+keywords:
+  - ethics
+  - philosophy-of-technology
+  - responsible-ai
+  - hci
+  - capability-approach
+  - freedom
+  - entropy
+abstract: >
+  Omega-PE computes Option Entropy (Ω) and runs an Option Audit to
+  measure whether a policy, product, or schedule expands people’s safe,
+  fair future options—using a harm guardrail (Γ), vulnerability weights (V),
+  and equity floors—with a reproducible CLI and example datasets.
+
+preferred-citation:
+  type: software
+  title: "Omega-PE: Possibility Ethics Option Entropy Toolkit"
+  version: "v0.1.0"
+  authors:
+    - family-names: "Akhtar"
+      given-names: "Mohammad Amir Khusru"
+  doi: "10.5281/zenodo.17380933"
+  date-released: "2025-10-17"
+  url: "https://doi.org/10.5281/zenodo.17380933"
