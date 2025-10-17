@@ -1,0 +1,2 @@
+[console_scripts]
+omega-audit = omega_pe.cli:main

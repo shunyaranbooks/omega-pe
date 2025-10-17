@@ -1,0 +1,20 @@
+[
+  {
+    "cohort_id": "C1",
+    "cohort_name": "Commuter Students",
+    "repairs": []
+  },
+  {
+    "cohort_id": "C2",
+    "cohort_name": "First-Gen Low-Bandwidth",
+    "repairs": [
+      "Transport voucher or shuttle access key",
+      "Assign mentor/peer group for 30 days"
+    ]
+  },
+  {
+    "cohort_id": "C3",
+    "cohort_name": "Working Caregivers",
+    "repairs": []
+  }
+]
