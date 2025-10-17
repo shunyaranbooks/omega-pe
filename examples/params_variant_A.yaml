@@ -1,0 +1,14 @@
+
+# Variant A adds exit/portability emphasis (lower τ to include more reversible actions)
+horizon_days: 7
+tau: 0.55
+gamma: 0.2
+theta: 0.80
+lambda_penalty: 0.0
+vulnerability_alpha: 1.0
+weights:
+  afford: 0.25
+  time: 0.20
+  skills: 0.20
+  perms: 0.20
+  support: 0.15

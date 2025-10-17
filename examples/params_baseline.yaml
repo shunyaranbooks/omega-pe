@@ -1,0 +1,13 @@
+
+horizon_days: 7
+tau: 0.6
+gamma: 0.2
+theta: 0.85
+lambda_penalty: 0.0
+vulnerability_alpha: 1.0
+weights:
+  afford: 0.25
+  time: 0.25
+  skills: 0.20
+  perms: 0.15
+  support: 0.15

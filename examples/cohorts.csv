@@ -1,0 +1,4 @@
+id,name,money_per_week,free_time_hours,device_bandwidth_level,transport_level,literacy_level,caregiving_load_hours,permissions,supports
+C1,Commuter Students,1200,18,1,1,1,6,library|export,mentor|peer
+C2,First-Gen Low-Bandwidth,800,22,0,0,1,4,appeal,peer
+C3,Working Caregivers,1500,12,2,1,2,8,export|offline,mentor

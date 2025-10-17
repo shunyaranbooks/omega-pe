@@ -1,0 +1,7 @@
+id,name,cost,time_hours,skill_level_required,perms_required,support_tags,outcome_signature,risk
+A1,Attend Evening Lab,0,3,1,library,,study|lab|practice,0.05
+A2,Use Offline Course Pack,0,2,1,offline,,study|download|offline,0.02
+A3,Export Notes & Switch App,0,1,1,export,,portability|control|backup,0.03
+A4,Join Mentor Group,0,1,0,,mentor,community|support|motivation,0.02
+A5,City Shuttle to Campus,150,2,0,,transport,transport|access|on-campus,0.08
+A6,AI Nudge Coach,0,1,2,,peer,habit|nudge|engagement,0.15

@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "omega-pe"
+version = "0.1.0"
+description = "Possibility Ethics: Option Entropy (Ω) calculator and Option Audit toolkit"
+readme = "README.md"
+authors = [
+  { name = "Dr. Mohammad Amir Khusru Akhtar (Shunya)", email = "amir@umu.ac.in" }
+]
+requires-python = ">=3.9"
+license = {text = "MIT"}
+keywords = ["ethics", "freedom", "capabilities", "responsible-ai", "hci", "governance"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Information Analysis"
+]
+
+dependencies = [
+  "click>=8.1.3",
+  "PyYAML>=6.0",
+  "pandas>=2.0",
+  "numpy>=1.24"
+]
+
+[project.urls]
+Homepage = "https://github.com/shunyaranbooks/Omega-PE"
+Repository = "https://github.com/shunyaranbooks/Omega-PE"
+
+[project.scripts]
+omega-audit = "omega_pe.cli:main"

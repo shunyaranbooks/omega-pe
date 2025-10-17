@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Omega-PE: Possibility Ethics Option Entropy Toolkit"
+version: "0.1.0"
+message: "If you use this software, please cite it."
+authors:
+  - family-names: "Akhtar"
+    given-names: "Mohammad Amir Khusru"
+    alias: "Shunya"
+    email: "amir@umu.ac.in"
+repository-code: "https://github.com/shunyaranbooks/Omega-PE"
+license: "MIT"
+date-released: "2025-10-17"
